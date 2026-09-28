@@ -28,4 +28,3 @@ Clone this repository or download the `wordg.py` file to your local machine:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
 cd your-repo-name
-<img width="783" height="859" alt="image" src="https://github.com/user-attachments/assets/065e356d-79de-497e-adcd-b1fbf3573a39" />
