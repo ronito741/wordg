@@ -17,6 +17,13 @@
 * **🔒 Persistent Inputs:** Your inputs and selections stay populated after a generation finishes so you can tweak and re-run instantly!
 
 ---
+<img width="783" height="859" alt="image" src="https://github.com/user-attachments/assets/91fc58ca-995f-404e-a4a6-00cd7ba5cda8" />
+
+
+
+
+
+
 
 ## 📦 Installation & Setup
 
